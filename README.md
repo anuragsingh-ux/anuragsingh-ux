@@ -1,51 +1,33 @@
-# 👋 Hi, I'm Anurag Singh!
+# 👋 Hi, I'm Anurag Singh
 
-🎯 **Aspiring Data Analyst | Excel | Power BI | Python | SQL**  
-📊 Turning data into decisions with insights that matter  
-📍 Based in India | Actively seeking Data Analyst roles
+## 💻 Frontend Developer | Fresher | HTML · CSS · JavaScript · React.js
 
----
-
-## 🧠 About Me
-
-I'm a **Statistics Graduate** who’s passionate about exploring data and uncovering stories behind the numbers. I specialize in creating clear, impactful reports and dashboards that help businesses make smarter decisions.
+I'm a **self-taught frontend developer** with a passion for creating clean, responsive, and user-friendly web interfaces. I build modern websites using **HTML**, **CSS**, **JavaScript**, and **React.js**. As a fresher, I am focused on learning best practices and building real-world projects to strengthen my skills.
 
 ---
 
-## 💼 What I Do Best
+## 🚀 What I Do
 
-- 🔍 **Data Cleaning & Preparation**
-- 📊 **Dashboard Creation in Power BI**
-- 📈 **Data Analysis & Visualization**
-- 🧠 **Data-Driven Decision Making**
-- 📑 **Report Automation using Excel & Python**
-
----
-
-## 🛠️ Tools & Technologies
-
-- **Languages**: Python, SQL  
-- **Analytics Tools**: Power BI, Excel (Advanced), Google Sheets  
-- **Libraries**: Pandas, NumPy, Seaborn, Matplotlib  
-- **Platforms**: GitHub, Jupyter Notebook
+- 🌐 Create responsive websites using **HTML5**, **CSS3**, and **JavaScript**
+- ⚛️ Develop interactive UI components with **React.js**
+- 📱 Mobile-first & cross-browser compatible designs
+- 🎨 Turn UI/UX designs into real websites
+- 🔄 Continuously learning new tools and techniques
 
 ---
 
-## 🌱 Currently Learning
+## 🛠 Tech Stack
 
-- 📘 Advanced DAX in Power BI  
-- 📘 Time-Series & Forecasting Models  
-- 📘 Exploratory Data Analysis (EDA) Techniques
+**Languages:**  
+`HTML5` · `CSS3` · `JavaScript (ES6+)`
 
----
+**Frontend Framework:**  
+`React.js` · `React Hooks` · `React Router`
 
-## 🤝 Let's Connect!
-
-📫 Email: anuragsingh5409@gmail.com  
-💼 LinkedIn: [linkedin.com/in/anuragsingh](https://www.linkedin.com/in/curious-anurag/)  
+**Tools & Platforms:**  
+`Git` · `GitHub` · `VS Code` · `Netlify`
 
 ---
 
-> “In God we trust. All others must bring data.” – W. Edwards Deming
+## 📂 Projects
 
-Thanks for visiting! 😊
