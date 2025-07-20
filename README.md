@@ -1,33 +1,45 @@
 # 👋 Hi, I'm Anurag Singh
 
-## 💻 Frontend Developer | Fresher | HTML · CSS · JavaScript · React.js
+## 📊 Data Analyst | Fresher | Excel · Power BI · SQL
 
-I'm a **self-taught frontend developer** with a passion for creating clean, responsive, and user-friendly web interfaces. I build modern websites using **HTML**, **CSS**, **JavaScript**, and **React.js**. As a fresher, I am focused on learning best practices and building real-world projects to strengthen my skills.
+I'm a **self-taught data analyst** passionate about uncovering insights from data. I specialize in using **Microsoft Excel**, **Power BI**, and **SQL** for cleaning, analyzing, and visualizing data. As a fresher, I'm focused on building strong fundamentals and solving real-world business problems through hands-on practice.
 
 ---
 
 ## 🚀 What I Do
 
-- 🌐 Create responsive websites using **HTML5**, **CSS3**, and **JavaScript**
-- ⚛️ Develop interactive UI components with **React.js**
-- 📱 Mobile-first & cross-browser compatible designs
-- 🎨 Turn UI/UX designs into real websites
-- 🔄 Continuously learning new tools and techniques
+- 📈 Analyze and clean datasets using **Excel**
+- 📊 Create interactive dashboards using **Power BI**
+- 🧾 Write SQL queries for data extraction and reporting
+- 📎 Present findings with charts, pivot tables, and visual KPIs
+- 🧠 Currently learning **Python** to automate data tasks
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:**  
-`HTML5` · `CSS3` · `JavaScript (ES6+)`
+**Tools & Technologies:**  
+`Excel` · `Power BI` · `SQL`  
+`Google Sheets` · `Git` · `GitHub`
 
-**Frontend Framework:**  
-`React.js` · `React Hooks` · `React Router`
-
-**Tools & Platforms:**  
-`Git` · `GitHub` · `VS Code` · `Netlify`
+**Learning:**  
+`Python (Basic)` · `Pandas` · `Jupyter Notebook`
 
 ---
 
-## 📂 Projects
+## 🎯 Learning Goals
 
+- ✅ Master Excel formulas and pivot tables  
+- ✅ Build business-ready dashboards in Power BI  
+- ✅ Practice SQL queries for data analysis  
+- ✅ Learn Python for future data workflows
+
+---
+
+## 📫 Let's Connect
+
+**LinkedIn**: [linkedin.com/in/anurag-singh](https://www.linkedin.com/in/curious-anurag/)  
+
+---
+
+*Thank you for visiting my profile! I’m actively learning and seeking data analyst opportunities.*  
