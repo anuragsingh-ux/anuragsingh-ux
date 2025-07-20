@@ -38,7 +38,7 @@ I'm a **self-taught data analyst** passionate about uncovering insights from dat
 
 ## 📫 Let's Connect
 
-**LinkedIn**: [linkedin.com/in/anurag-singh](https://www.linkedin.com/in/curious-anurag/)  
+**LinkedIn**: [linkedin](https://www.linkedin.com/in/curious-anurag/)  
 
 ---
 
