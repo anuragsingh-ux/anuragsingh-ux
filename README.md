@@ -1,45 +1,63 @@
 # 👋 Hi, I'm Anurag Singh
 
-## 📊 Data Analyst | Fresher | Excel · Power BI · SQL
+## 📊 Data Analyst @ Skoodos — Excel · SQL · Python · Web Scraping  
 
-I'm a **self-taught data analyst** passionate about uncovering insights from data. I specialize in using **Microsoft Excel**, **Power BI**, and **SQL** for cleaning, analyzing, and visualizing data. As a fresher, I'm focused on building strong fundamentals and solving real-world business problems through hands-on practice.
+I’m a **Data Analyst at Skoodos** with hands-on experience turning noisy data into actionable insights.  
+I combine strong fundamentals in **Excel** and **SQL** with practical **Python skills** and advanced **web scraping techniques** to build reproducible pipelines, dashboards, and analytics that drive decisions.  
 
----
-
-## 🚀 What I Do
-
-- 📈 Analyze and clean datasets using **Excel**
-- 📊 Create interactive dashboards using **Power BI**
-- 🧾 Write SQL queries for data extraction and reporting
-- 📎 Present findings with charts, pivot tables, and visual KPIs
-- 🧠 Currently learning **Python** to automate data tasks
+💡 Actively transitioning toward a **Data Scientist** role — focusing on automation, ML-ready features, and scalable data products.  
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 What I Do  
 
-**Tools & Technologies:**  
-`Excel` · `Power BI` · `SQL`  
-`Google Sheets` · `Git` · `GitHub`
-
-**Learning:**  
-`Python (Basic)` · `Pandas` · `Jupyter Notebook`
-
----
-
-## 🎯 Learning Goals
-
-- ✅ Master Excel formulas and pivot tables  
-- ✅ Build business-ready dashboards in Power BI  
-- ✅ Practice SQL queries for data analysis  
-- ✅ Learn Python for future data workflows
+- 📈 Clean, transform, and analyze datasets using **Excel**, **SQL**, and **Pandas**  
+- 🕸️ Build robust **web scraping** pipelines (`requests`, `BeautifulSoup`, `Scrapy`, `Selenium`)  
+- 🗺️ Extract and consolidate **location data** (Google Maps / public listings) for geo-analytics & BI  
+- 🤖 Automate repetitive tasks, ETL flows, and reporting using **Python** scripts  
+- 📊 Design interactive dashboards & visual reports for stakeholders (**Power BI / Excel dashboards**)  
 
 ---
 
-## 📫 Let's Connect
+## 🛠 Tech Stack  
 
-**LinkedIn**: (https://www.linkedin.com/in/curious-anurag/)  
+**Languages & Libraries**  
+`Python` · `Pandas` · `NumPy` · `SQL` · `Excel` · `Power BI`  
+
+**Web Scraping & Automation**  
+`requests` · `BeautifulSoup` · `Scrapy` · `Selenium`  
+
+**Dev & Notebooks**  
+`VS Code` · `Google Colab` · `Jupyter Notebook` · `Git` · `GitHub`  
+
+**Other Tools**  
+`Google Sheets` · `CSV / JSON` · `APIs` · `Basic ML (scikit-learn)`  
 
 ---
 
-*Thank you for visiting my profile! I’m actively learning and seeking data analyst opportunities.*  
+## 🎯 Career Focus  
+
+- ✅ Build production-ready data pipelines (collection → cleaning → analysis)  
+- ✅ Expand into **predictive modeling & applied ML**  
+- ✅ Create reproducible notebooks & modular Python scripts  
+- ✅ Publish high-quality **end-to-end projects** on GitHub  
+
+---
+
+## 🔎 Featured Strengths  
+
+- ⚡ Rapid prototyping of scrapers & parsers for semi-structured sources  
+- 📂 Transforming raw data into **clean, analysis-ready datasets**  
+- 📊 Storytelling with data: **visuals, dashboards, executive summaries**  
+- 🔄 Reliable workflows with **Git + Jupyter/Colab**  
+
+---
+
+## 📫 Let’s Connect  
+
+- **LinkedIn**: [linkedin.com/in/curious-anurag](https://www.linkedin.com/in/curious-anurag/)  
+- **GitHub**: *(add your repo/project showcase links here)*  
+
+---
+
+✨ *Thanks for visiting! I’m building projects that bridge data collection, analytics, and machine learning.*  
