@@ -55,8 +55,7 @@ I combine strong fundamentals in **Excel** and **SQL** with practical **Python s
 
 ## 📫 Let’s Connect  
 
-- **LinkedIn**: [linkedin.com/in/curious-anurag](https://www.linkedin.com/in/curious-anurag/)  
-- **GitHub**: *(add your repo/project showcase links here)*  
+- **LinkedIn**: [linkedin.com/in/curious-anurag](https://www.linkedin.com/in/curious-anurag/)
 
 ---
 
